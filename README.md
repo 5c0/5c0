@@ -3,6 +3,6 @@
 ![Snake animation](https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/cumsoft/count.svg"/>
+<img src="https://profile-counter.glitch.me/5c0/count.svg"/>
 <div>
-https://profile-counter.glitch.me/5c0/count.svg
+
