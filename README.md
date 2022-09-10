@@ -1,6 +1,5 @@
 ![reefblower](https://user-images.githubusercontent.com/93293719/189461417-bc5f139c-fc6c-4644-ae48-c39c525d59be.gif)
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **5c0/5c0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
