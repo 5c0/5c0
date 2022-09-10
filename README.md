@@ -1,2 +1,1 @@
-![c1a16d8d25097c20dd8d46777b77e618](https://user-images.githubusercontent.com/93293719/189477954-1aec706f-a71c-4293-9856-46f3dfe18a3a.gif)
-
+![skid](https://user-images.githubusercontent.com/93293719/189477966-f7fd48ba-21da-4ae9-8c43-6f0398ef414d.gif)
