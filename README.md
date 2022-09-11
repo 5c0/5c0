@@ -5,7 +5,7 @@
  <div>
 <img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)"/>
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
