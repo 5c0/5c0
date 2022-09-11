@@ -15,3 +15,4 @@
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/5c0/count.svg"/> </div>
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
