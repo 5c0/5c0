@@ -10,7 +10,8 @@
 
   <div align="center">
    <a id="page" href="https://5c0.github.io" target="_blank">
-<img src="https://user-images.githubusercontent.com/93293719/189511766-ee5dd308-9e51-4415-a9ac-cb655bafaa42.gif"/> </a>
+<img src="https://user-images.githubusercontent.com/93293719/189512703-b302d920-8719-49a8-a704-d5ad255290db.gif"/> </a>
   </div>
+
 <div align="center">
-<img src="https://profile-counter.glitch.me/5c0/count.svg"/></div>
+<img src="https://profile-counter.glitch.me/5c0/count.svg"/> </div>
