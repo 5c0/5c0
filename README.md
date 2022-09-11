@@ -5,7 +5,6 @@
  <div>
 <img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
@@ -18,3 +17,5 @@
 
 <div align="center">
 <img src="https://profile-counter.glitch.me/5c0/count.svg"/> </div>
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
