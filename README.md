@@ -1,6 +1,3 @@
-<style>
-    background-color: black;
-</style>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/93293719/189511766-ee5dd308-9e51-4415-a9ac-cb655bafaa42.gif"/>  
@@ -16,4 +13,5 @@
 <img src="https://user-images.githubusercontent.com/93293719/189512050-d4c59ef6-715f-47bf-bcf0-c541d2408b9f.gif"/>
   </div>
 <div align="center">
+    <div style="background-color: rgb(50, 50, 50);">
 <img src="https://profile-counter.glitch.me/5c0/count.svg"/></div>
