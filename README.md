@@ -15,6 +15,3 @@
    <a id="page" href="https://e.rip/⚠⚠⚠" target="_blank">
 <img src="https://user-images.githubusercontent.com/93293719/189512703-b302d920-8719-49a8-a704-d5ad255290db.gif"/> </a>
   </div>
-
-<div align="center">
-<img src="https://profile-counter.glitch.me/5c0/count.svg"/> </div>
