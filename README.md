@@ -10,8 +10,3 @@
 </div>
 
 ---
-
-  <div align="center">
-   <a id="page" href="https://5c0.github.io" target="_blank">
-<img src="https://user-images.githubusercontent.com/93293719/189512703-b302d920-8719-49a8-a704-d5ad255290db.gif"/> </a>
-  </div>
