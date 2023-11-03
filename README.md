@@ -7,7 +7,6 @@
     <div>
  <div>
     
-# <img src="https://github.com/5c0/5c0/blob/output/github-contribution-grid-snake.svg"/>
 
 
 </div>
