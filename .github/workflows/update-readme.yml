@@ -1,0 +1,24 @@
+name: M
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  x:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - run: |
+          echo "" >> R.md
+          echo "<!-- $(openssl rand -hex 8) $(date -u +"%s") -->" >> R.md
+
+      - run: |
+          git config --global user.name "A"
+          git config --global user.email "a@b.c"
+          git add R.md
+          git commit -m "U $(date -u +"%s")" || echo "N"
+          git push
