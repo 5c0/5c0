@@ -13,12 +13,12 @@ jobs:
       - uses: actions/checkout@v2
 
       - run: |
-          echo "" >> R.md
-          echo "<!-- $(openssl rand -hex 8) $(date -u +"%s") -->" >> R.md
+          echo "" >> README.md
+          echo "<!-- $(openssl rand -hex 8) $(date -u +"%s") -->" >> README.md
 
       - run: |
           git config --global user.name "A"
           git config --global user.email "a@b.c"
-          git add R.md
+          git add README.md
           git commit -m "U $(date -u +"%s")" || echo "N"
           git push
