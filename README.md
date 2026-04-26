@@ -1,3 +1,5 @@
+ I’m currently working on open source AGI projects / decentralized autonomous orgs (DAOs)
+
 ![](https://komarev.com/ghpvc/?username=5c0)
 
 <div align="center">
