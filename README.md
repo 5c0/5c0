@@ -10,10 +10,6 @@ A lot of my work sits at the intersection of:
 - Backend infrastructure, automation, and performance-focused engineering
 - DeFi, smart contracts, and experimental crypto infrastructure
 
-I'm especially interested in building tools, exploring weird systems, and working on technically difficult problems.
-
-If you're working on interesting infrastructure, security, or developer-focused products, feel free to reach out.
-
 ![](https://komarev.com/ghpvc/?username=5c0)
 
 ![](https://5c0.github.io/)
