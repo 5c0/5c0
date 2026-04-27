@@ -1,16 +1,18 @@
 ### Hi, I'm 5c0
 
-I'm a smart contract security researcher and developer focused on on-chain systems, protocol security, and Web3 infrastructure.
+I'm a developer and security researcher interested in systems, tooling, automation, infrastructure, and on-chain technology.
 
-I spend most of my time working on:
-- Smart contract security research
-- Bug bounties and vulnerability discovery
-- DeFi and on-chain application development
-- Automation, tooling, and experimental crypto infrastructure
+I like working across the stack and have spent time building with C, C++, C#, Go, Rust, Python, JavaScript/TypeScript, Solidity, and more.
 
-I'm especially interested in protocol design, DAO systems, treasury logic, and security-oriented developer tooling.
+A lot of my work sits at the intersection of:
+- Security research and bug bounty work
+- Systems programming and developer tooling
+- Backend infrastructure, automation, and performance-focused engineering
+- DeFi, smart contracts, and experimental crypto infrastructure
 
-If you're working on interesting Web3 infrastructure, DeFi, or security problems, feel free to reach out.
+I'm especially interested in building tools, exploring weird systems, and working on technically difficult problems.
+
+If you're working on interesting infrastructure, security, or developer-focused products, feel free to reach out.
 
 ![](https://komarev.com/ghpvc/?username=5c0)
 
