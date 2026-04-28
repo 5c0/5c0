@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=5c0)
 ### Hi, I'm 5c0
 
 I'm a developer and security researcher interested in systems, tooling, automation, infrastructure, and on-chain technology.
@@ -10,7 +11,6 @@ A lot of my work sits at the intersection of:
 - Backend infrastructure, automation, and performance-focused engineering
 - DeFi, smart contracts, and experimental crypto infrastructure
 
-![](https://komarev.com/ghpvc/?username=5c0)
 
 ![](https://5c0.github.io/)
 
